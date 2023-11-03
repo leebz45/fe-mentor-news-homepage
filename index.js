@@ -24,5 +24,5 @@ menuCloseButton.addEventListener('click', (e) => {
   setTimeout(() => {
     menu.ariaHidden = true;
     document.body.style.overflow = 'visible';
-  }, 500);
+  }, 300);
 });
