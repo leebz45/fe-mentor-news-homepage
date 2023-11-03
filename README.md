@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/leebz45/fe-mentor-news-homepage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Github](https://github.com/leebz45/fe-mentor-news-homepage)
+- [Live Site](https://leebz45.github.io/fe-mentor-news-homepage/)
 
 ## My process
 
